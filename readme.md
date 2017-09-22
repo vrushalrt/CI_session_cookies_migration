@@ -12,3 +12,16 @@ Source code directories included user.sql file of database backup so you just ne
 * To control custom version user ```$ php index.php migrate version 1``` migrate to version 1.
 
 * Migration modification: To modify migration go to controllers/migrate controller where it redirect to the application/migrations so you can add your table fields in ```up``` function.
+
+DEVELOPER	: Vrushal Raut
+EMAIL		: vrushalrt@gmail.com
+
+
+██╗   ██╗██████╗ ██╗   ██╗███████╗██╗  ██╗ █████╗ ██╗         ██████╗  █████╗ ██╗   ██╗████████╗    
+██║   ██║██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗██║         ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝    
+██║   ██║██████╔╝██║   ██║███████╗███████║███████║██║         ██████╔╝███████║██║   ██║   ██║       
+╚██╗ ██╔╝██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║         ██╔══██╗██╔══██║██║   ██║   ██║       
+ ╚████╔╝ ██║  ██║╚██████╔╝███████║██║  ██║██║  ██║███████╗    ██║  ██║██║  ██║╚██████╔╝   ██║       
+  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝       
+                                                                                                    
+		
